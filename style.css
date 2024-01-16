@@ -49,3 +49,18 @@
   flex-direction: column;
   gap: 7px;
 }
+.input-group label {
+  color: #fff;
+  font-weight: lighter;
+}
+.input-group input {
+  font-weight: 1.25rem;
+  padding: 0.5em;
+  background-color: hsl(var(--primary-light-hsl), 0.3);
+  border: none;
+  outline: none;
+  border-radius: 0.25em;
+  color: #fff;
+  font-weight: lighter;
+}
+/* complete tomorrow */
